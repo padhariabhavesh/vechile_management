@@ -1,1 +1,0 @@
- G:\\vechile_management\\.dart_tool\\flutter_build\\edf8477839dd4606feb4819b5734ab00\\native_assets.json: 
